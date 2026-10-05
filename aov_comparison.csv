@@ -1,0 +1,5 @@
+group,customers,orders,total_value,aov,comparison
+One-time,41.0,41,9473.96,231.07,By customer type
+Repeat,948.0,4959,1430536.83,288.47,By customer type
+First order,,989,284512.99,287.68,By order sequence
+Repeat order,,4011,1155497.8,288.08,By order sequence
